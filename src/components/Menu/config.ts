@@ -12,11 +12,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://dex.KandySwap.com/',
+        href: 'https://test-postinstall2.vercel.app/#/swap',
       },
       {
         label: 'Liquidity',
-        href: 'https://dex.KandySwap.com/#/pool',
+        href: 'https://test-postinstall2.vercel.app/#/pool',
       },
     ],
   },
