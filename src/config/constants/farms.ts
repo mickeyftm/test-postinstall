@@ -7,12 +7,12 @@ const farms: FarmConfig[] = [
     lpSymbol: 'KANDY',
     lpAddresses: {
       97: '',
-      321: '0x8C8a54381b1FC988978d89978DD3B198F4ca54C0',
+      321: '0x84B16071f51557a240F470a49950b0AB4aFd746c',
     },
     tokenSymbol: 'SYRUP',
     tokenAddresses: {
       97: '',
-      321: '0x8C8a54381b1FC988978d89978DD3B198F4ca54C0',
+      321: '0x84B16071f51557a240F470a49950b0AB4aFd746c',
     },
     quoteTokenSymbol: QuoteToken.BNB,
     quoteTokenAdresses: contracts.wbnb,
@@ -23,12 +23,12 @@ const farms: FarmConfig[] = [
     lpSymbol: 'KANDY-KCS LP',
     lpAddresses: {
       97: '',
-      321: '0x8b40De6d0b63008a61b1125BCF272634dB1d320D',   // lp address kandy-bnb
+      321: '0xA0cbB68a0222aBF7F2eCc045694C4dcc14672671',   // lp address kandy-bnb
     },
     tokenSymbol: 'KANDY',
     tokenAddresses: {
       97: '',
-      321: '0x8C8a54381b1FC988978d89978DD3B198F4ca54C0', // KANDY address
+      321: '0x84B16071f51557a240F470a49950b0AB4aFd746c', // KANDY address
     },
     quoteTokenSymbol: QuoteToken.BNB,
     quoteTokenAdresses: contracts.wbnb,
